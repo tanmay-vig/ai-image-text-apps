@@ -10,7 +10,7 @@ Created two apps : <br>
 2. Start the environment `venv/Scripts/activate` or  `source venv/bin/activate`
 3. Install the required packages by running `pip install -r requirements.txt`
 4. Add a `.env` file in the directory to  store the  API keys for Gemini 
-5.  Run the app using `streamlit run app.py` or `stream run vision.py` depending on the app you need
+5.  Run the app using `streamlit run app.py` or `streamlit run vision.py` depending on the app you need
 
 Outputs:
 1. Vision.py <br>
